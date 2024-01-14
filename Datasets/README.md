@@ -3,9 +3,9 @@
 ## Spreadsheets
 A really messy Excel dataset to be restructured, from the Data Carpentry course (see [here](https://datacarpentry.org/spreadsheet-ecology-lesson/))
 
-###### [survey_data_spreadsheet_messy.xls](https://raw.githubusercontent.com/mchialva/PhDToolbox2024/main/Datasets/spreadsheets/survey_data_spreadsheet_messy.xls) -  messy dataset
+###### [survey_data_spreadsheet_messy.xls](https://raw.githubusercontent.com/mchialva/PhDToolbox2024/main/Datasets/spreadsheet/survey_data_spreadsheet_messy.xls) -  messy dataset
 
-###### [survey_data_spreadsheet_tidy.xls](https://raw.githubusercontent.com/mchialva/PhDToolbox2024/main/Datasets/spreadsheets/survey_data_spreadsheet_tidy.xls) -  tidy dataset
+###### survey_data_spreadsheet_tidy.xls -  tidy dataset
 
 ## Flowers
 An inventory of plant species from Maritime Alps used as model to study plant traits perceptions biases in conservation science. (modified from [Adamo et al., 2021](https://doi.org/10.1038/s41477-021-00912-2))
