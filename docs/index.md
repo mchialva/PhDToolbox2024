@@ -7,17 +7,16 @@ Teachers: Matteo Chialva & Martino Adamo
 
 Course Schedule
 
-Venue: All lesssons will take place in Auletta I, Orto Botanico, Viale Mattioli 25, Torino, Italy (Depratment of Life Sciences and Systems Biology, University of Torino)
+Venue: All lesssons will take place in Auletta I, Orto Botanico, Viale Mattioli 25, Torino, Italy (Department of Life Sciences and Systems Biology, University of Torino)
 
 # Stream 1 R for Data Science: R for Beginners
 
 ## Day 1 - January 15, 2024, 10:00-13:00
 - [Introduction to R: Data types and objects in R](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson_1_%20RBasics.pdf)
-- Data Organization in Spreadsheets
 
 ## Day 2 - January 19, 2024, 10:00-13:00
-- Data import & export
-- Manipulating and analyzing data efficiently
+- Data Organization in Spreadsheets
+- Data wrangling with tidyverse
 
 ## Day 3 - January 22, 2024, 10:00-12:00
 - Data visualisation: basic graphics  in R
