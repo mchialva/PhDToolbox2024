@@ -15,12 +15,13 @@ Venue: All lesssons will take place in Auletta I, Orto Botanico, Viale Mattioli 
 - [Introduction to R: Data types and objects classes](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson_1_%20RBasics.pdf)
 
 ## Day 2 - January 19, 2024, 10:00-13:00
-- Data Organization in Spreadsheets
+- [Data Organization in Spreadsheets](
+https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson_2_spreadsheets.pdf)
 - Data wrangling with tidyverse
 
 ## Day 3 - January 22, 2024, 10:00-12:00
-- Data visualisation: basic graphics  in R
-- Tip & Tricks
+- Base graphics  in R
+- Tips & Tricks
 
 # Stream 2 R for Advanced Users
 
