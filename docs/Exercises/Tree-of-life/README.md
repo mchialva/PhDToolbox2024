@@ -12,7 +12,7 @@ Authors: Matteo Chialva & Martino Adamo
 - Import the Tree of Life Dataset from the Dataset folder [here](https://raw.githubusercontent.com/mchialva/PhDToolbox2024/main/Datasets/tree_of_life/SampleTREE_TraitCompiled.csv) into the *Tol* object
 
 > [!IMPORTANT]
-> If you use read.table() function please add the following arguments to avoid import issues:
+> If you use read.table() function please add the following arguments to avoid importing issues:
 ```
 read.table(..., quote="\"", fill=T)
 ```
