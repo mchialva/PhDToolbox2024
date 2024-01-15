@@ -9,7 +9,7 @@ Authors: Matteo Chialva & Martino Adamo
 > use tidyverse functions (and pipe them where possible!)
 
 # Task 1 - import data
-- Import the Tree of Life Dataset SampleTREE_TraitCompiled.csv) from the Dataset folder [here](https://github.com/mchialva/PhDToolbox2024/tree/main/Datasets%2Ftree_of_life) into the *Tol* object
+- Import the Tree of Life Dataset SampleTREE_TraitCompiled.csv) from the Dataset folder [here](https://github.com/mchialva/PhDToolbox2024/tree/main/Datasets%2Ftree_of_life) into the *ToL* object
 
 > [!IMPORTANT]
 > If you use read.table() function please add the following arguments to avoid importing issues:
