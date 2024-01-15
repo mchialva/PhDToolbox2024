@@ -3,7 +3,7 @@ This is the data repository for the 2024 PhDToolBox course (PhD in Biological Sc
 R-base, R-advanced and R-mapping modules
 Teachers: Matteo Chialva & Martino Adamo
 
-[PhD Toolbox Campusnet page](https://raw.githubusercontent.com/mchialva/PhDToolbox2023/main/Datasets/flowers.tsv](https://dott-sbba.campusnet.unito.it/do/corsi.pl/Show?_id=7kkl)https://dott-sbba.campusnet.unito.it/do/corsi.pl/Show?_id=7kkl)
+[PhD Toolbox Campusnet page](https://dott-sbba.campusnet.unito.it/do/corsi.pl/Show?_id=7kkl)
 
 Course Schedule
 
@@ -12,7 +12,7 @@ Venue: All lesssons will take place in Auletta I, Orto Botanico, Viale Mattioli 
 # Stream 1 R for Data Science: R for Beginners
 
 ## Day 1 - January 15, 2024, 10:00-13:00
-- [Introduction to R: Data types and objects classes](https://phd-toolbox-course.github.io/2022_PhD_Toolbox_course/01-RR.html://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson_1_%20RBasics.pdf)
+- [Introduction to R: Data types and objects classes](https:/mchialva.github.com/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson_1_%20RBasics.pdf)
 
 ## Day 2 - January 19, 2024, 10:00-13:00
 - Data Organization in Spreadsheets
