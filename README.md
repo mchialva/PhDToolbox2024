@@ -1,42 +1,6 @@
-# PhDToolbox2024
+# [PhDToolbox2024](https://mchialva.github.io/PhDToolbox2024/)
 This is the data repository for the 2024 PhDToolBox course (PhD in Biological Sciences and Applied Biotechnologies, University of Torino, Italy)
 R-base, R-advanced and R-mapping modules
 Teachers: Matteo Chialva & Martino Adamo
 
-[PhD Toolbox Campusnet page](https://raw.githubusercontent.com/mchialva/PhDToolbox2023/main/Datasets/flowers.tsv](https://dott-sbba.campusnet.unito.it/do/corsi.pl/Show?_id=7kkl)https://dott-sbba.campusnet.unito.it/do/corsi.pl/Show?_id=7kkl)
-
-Course Schedule
-
-Venue: All lesssons will take place in Auletta I, Orto Botanico, Viale Mattioli 25, Torino, Italy (Depratment of Life Sciences and Systems Biology, University of Torino)
-
-# Stream 1 R for Data Science: R for Beginners
-
-## Day 1 - January 15, 2024, 10:00-13:00
-- Introduction to R
-- Data types and objects in R
-- Data Organization in Spreadsheets
-
-## Day 2 - January 19, 2024, 10:00-13:00
-- Data import & export
-- Manipulating and analyzing data efficiently
-
-## Day 3 - January 22, 2024, 10:00-12:00
-- Data visualisation: basic graphics  in R
-- Tip & Tricks
-
-# Stream 2 R for Advanced Users
-
-## Day 1 - January 26, 2024, 09:00-13:00
-- Scientific graphics in R
-- Advanced data visualization with ggplot2
-- How to obtain pulication-ready image from your data
-
-## Day 2 - January 29, 2024, 09:00-13:00
-- Working with lists
-- Reproducible data reporting with RMarkdown
-
-# Stream 2 Plotting maps in R
-## Day 1 - January 30, 2024, 09:00-12:00
-- Geographic data introduction
-- Plot maps in R usig ggplot2
-  
+[PhD Toolbox Campusnet page](https://dott-sbba.campusnet.unito.it/do/corsi.pl/Show?_id=7kkl)
