@@ -1,5 +1,5 @@
 # PhDToolbox2024 - Exercises
-Please complete the following exercise and load your final *.R file in the opened Moodle task [here](https://elearning.unito.it/dottorato/mod/assign/view.php?id=3855)
+Please complete the following exercise and load your final outputs in the opened Moodle tasks [here](https://elearning.unito.it/dottorato/mod/assign/view.php?id=3855)
 
 ## Stream 1
 
