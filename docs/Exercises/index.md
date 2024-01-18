@@ -1,5 +1,5 @@
 # Exercises
-Please complete the following exercise and load your final outputs in the opened Moodle tasks [here](https://elearning.unito.it/dottorato/mod/assign/view.php?id=3855)
+Please complete the following exercises and load your final outputs in the opened Moodle tasks [here](https://elearning.unito.it/dottorato/mod/assign/view.php?id=3855)
 
 ## Stream 1
 
