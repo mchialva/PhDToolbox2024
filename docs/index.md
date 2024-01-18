@@ -39,5 +39,5 @@ https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson
 - Geographic data introduction
 - Plot maps in R usig ggplot2
 
-# (Exercises](https://mchialva.github.io/PhDToolbox2024/Exercises/)
+# [Exercises](https://mchialva.github.io/PhDToolbox2024/Exercises/)
 
