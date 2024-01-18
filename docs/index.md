@@ -45,3 +45,7 @@ https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson
 
 # [Exercises](https://mchialva.github.io/PhDToolbox2024/Exercises/)
 
+# [Course datasets](https://mchialva.github.io/PhDToolbox2024/Datasets/)
+Example datasets used during lessons
+
+

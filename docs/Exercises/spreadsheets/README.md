@@ -9,4 +9,4 @@ A really messy Excel dataset to be restructured, from the Data Carpentry course 
 
 - [survey_data_spreadsheet_tidy.xls] -  tidy dataset
 
-[^1]: If you do still not have access to the Moodle platform, please e-mail us your results!
+[^1]: If you do not have access to the Moodle platform yet, please e-mail us your results!

@@ -1,7 +1,7 @@
 # The Tree of Life dataset
 Final exercise on data wrangling with tidyverse
 
-A real study case from Mammola et al 2023 (https://doi.org/10.7554/eLife.88251.3
+A real study case from Mammola et al., 2023 (https://doi.org/10.7554/eLife.88251.3
 
 Authors: Matteo Chialva & Martino Adamo
 
@@ -10,7 +10,7 @@ Authors: Matteo Chialva & Martino Adamo
 > - use tidyverse functions (and pipe them where possible!)
 > - load your final *.R script file in the Moodle page of the course[^1].
 
-[^1]: If you do still not have access to the Moodle platform, please e-mail us your results!
+[^1]: If you do not have access to the Moodle platform yet, please e-mail us your results!
 
 # Task 1 - import data
 - Import the Tree of Life Dataset SampleTREE_TraitCompiled.csv) from the Dataset folder [here](https://github.com/mchialva/PhDToolbox2024/tree/main/Datasets%2Ftree_of_life) into the *ToL* object
@@ -42,8 +42,5 @@ read.table(..., quote="\"", fill=T)
 
 > [!TIP]
 > You can achieve these goals by using the functions we mentioned during the course lessons.
-> However, the **top_n()** function can make the job easier. Explore both the ways.
-
-
-
+> However, the **top_n()** function can make the job easier. Possibly, explore both the ways.
 
