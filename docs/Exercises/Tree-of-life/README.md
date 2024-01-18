@@ -38,7 +38,7 @@ read.table(..., quote="\"", fill=T)
 
 > [!TIP]
 > You can achieve these goals by using the functions we mentioned during the course lessons.
-> However, the **top_n()** function can make the job easier.
+> However, the **top_n()** function can make the job easier. Explore both the ways.
 
 
 
