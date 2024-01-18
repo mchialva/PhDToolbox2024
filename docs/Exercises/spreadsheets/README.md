@@ -1,7 +1,12 @@
 # Spreadsheets Exercise
-A really messy Excel dataset to be restructured, from the Data Carpentry course (see [here](https://datacarpentry.org/spreadsheet-ecology-lesson/))
+A really messy Excel dataset to be restructured, from the Data Carpentry course (see [here](https://datacarpentry.org/spreadsheet-ecology-lesson/)).
 
-- [survey_data_spreadsheet_messy.xls](https://raw.githubusercontent.com/mchialva/PhDToolbox2024/main/Datasets/spreadsheet/survey_data_spreadsheet_messy.xls) -  messy dataset
+> [!NOTE]
+> - Restructure the table following guidelines discussed during the lessons.
+> - load your final output as a delimited text file (*.csv, *tsv or *.txt) in the Moodle page of the course[^1].
 
-- survey_data_spreadsheet_tidy.xls -  tidy dataset
+- [survey_data_spreadsheet_messy.xls](https://raw.githubusercontent.com/mchialva/PhDToolbox2024/main/docs/Exercises/spreadsheets/survey_data_spreadsheet_messy.xls) -  messy dataset
 
+- [survey_data_spreadsheet_tidy.xls] -  tidy dataset
+
+[^1]: If you do still not have access to the Moodle platform, please e-mail us your results!

@@ -5,6 +5,7 @@ Please complete the following exercise and load your final outputs in the opened
 
 ### Spreadsheet exercise
 - [Exercise](https://github.com/mchialva/PhDToolbox2024/tree/main/docs/Exercises/spreadsheets/)
+- [Solution]
 
 ### Data wrangling exercise with tidyverse
 - [Exercise](https://github.com/mchialva/PhDToolbox2024/tree/main/docs/Exercises/Tree-of-life)
