@@ -17,7 +17,7 @@ Venue: All lesssons will take place in Auletta I, Orto Botanico, Viale Mattioli 
 ## Day 2 - January 19, 2024, 10:00-13:00
 - [Data Organization in Spreadsheets](
 https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson_2_spreadsheets.pdf)
-- [Data wrangling with tidyverse](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2Lesson_2_data_wrangling.pdf)
+- [Data wrangling with tidyverse](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons/Stream_1/Lesson_2_data_wrangling.pdf)
 
 ## Day 3 - January 22, 2024, 10:00-12:00
 - Base graphics  in R
