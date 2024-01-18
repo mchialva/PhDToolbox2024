@@ -4,6 +4,7 @@ This is the data repository for the 2024 PhDToolBox course (PhD in Biological Sc
 ### R-base, R-advanced and R-mapping modules
 
 *Teachers* : Matteo Chialva & Martino Adamo
+
 Contacts: matteo.chialva@unito.it or martino.adamo@unito.it
 
 [PhD Toolbox Campusnet page](https://dott-sbba.campusnet.unito.it/do/corsi.pl/Show?_id=7kkl)
