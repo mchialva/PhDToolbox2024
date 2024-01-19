@@ -1,7 +1,7 @@
 # The Tree of Life dataset
 Final exercise on data wrangling with tidyverse
 
-A real study case from Mammola et al., 2023 (https://doi.org/10.7554/eLife.88251.3
+A real study case from Mammola et al., 2023 (https://doi.org/10.7554/eLife.88251.3)
 
 Authors: Matteo Chialva & Martino Adamo
 
