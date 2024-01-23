@@ -1,5 +1,4 @@
-# PhDToolbox2024
-This is the data repository for the 2024 PhDToolBox course (PhD in Biological Sciences and Applied Biotechnologies, University of Torino, Italy)
+Lessons and data repository for the 2024 PhDToolBox course (PhD in Biological Sciences and Applied Biotechnologies, University of Torino, Italy)
 
 ### R-base, R-advanced and R-mapping modules
 
