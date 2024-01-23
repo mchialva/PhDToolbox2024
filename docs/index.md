@@ -29,7 +29,7 @@ https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson
 ## Stream 2 R for Advanced Users
 
 ### Day 1 - January 26, 2024, 09:00-13:00
-- [Advanced Scientific data visualization in R with ggplot2]
+- [Advanced Scientific data visualization in R with ggplot2](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons/Stream_2/Lesson_1_ggplot2.pdf)
 
 ### Day 2 - January 29, 2024, 09:00-13:00
 - Working with lists
