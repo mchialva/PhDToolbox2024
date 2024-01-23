@@ -24,15 +24,13 @@ https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson
 - [Data wrangling with tidyverse](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons/Stream_1/Lesson_2_data_wrangling.pdf)
 
 ### Day 3 - January 22, 2024, 10:00-12:00
-- Base graphics  in R
-- Tips & Tricks
+- [Tips & Tricks](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons/Stream_1/Lesson_3_tips.pdf)
+- [Base graphics  in R](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons/Stream_1/Lesson_3_basegraphics.pdf)
 
 ## Stream 2 R for Advanced Users
 
 ### Day 1 - January 26, 2024, 09:00-13:00
-- Scientific graphics in R
-- Advanced data visualization with ggplot2
-- How to obtain pulication-ready image from your data
+- [Advanced Scientific data visualization in R with ggplot2]
 
 ### Day 2 - January 29, 2024, 09:00-13:00
 - Working with lists
