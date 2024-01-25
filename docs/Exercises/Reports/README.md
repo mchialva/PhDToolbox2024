@@ -8,8 +8,8 @@ Compile a reproducible report with your *Tree-of-Life* exercise (Stream 1) solut
 
 | **Rmarkdown** | **Quarto** |
 | --------------|  -------   |
-| [Slides](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Rmarkdown/Presentation.html)  | [Slides](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Quarto/Quarto_presentation.html)    |
-| [html](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Rmarkdown/Rmarkdown.html) | [html](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Quarto/Quarto.html)     |
+| [Slides](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/RMarkdown/Presentation.html)  | [Slides](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Quarto/Quarto_presentation.html)    |
+| [html](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Rmarkdown/RMarkdown.html) | [html](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Quarto/Quarto.html)
 
 
 
