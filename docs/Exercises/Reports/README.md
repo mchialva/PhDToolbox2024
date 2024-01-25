@@ -9,7 +9,7 @@ Compile a reproducible report with your *Tree-of-Life* exercise (Stream 1) solut
 | **Rmarkdown** | **Quarto** |
 | --------------|  -------   |
 | [Slides]  | [Slides](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Quarto/Quarto_presentation.html)    |
-| [html] | [html]     |
+| [html](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Rmarkdown/Rmarkdown.html) | [html](https://mchialva.github.io/PhDToolbox2024/Exercises/Reports/Rmarkdown/Presentation.html)     |
 
 
 
