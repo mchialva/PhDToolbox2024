@@ -1,9 +1,11 @@
 # Useful extra resources
 
-## Cheatsheets
+***
+
+## R documentation
 [Official R-Studio (Posit) cheatsheets  repository](https://posit.co/resources/cheatsheets/)
 
-## ggplot2 resources and extension packages
+## Data visualization
 
 [Comprehensive gpplot2-based packages](https://github.com/erikgahner/awesome-ggplot2)
 
@@ -13,3 +15,5 @@
 
 ## Quarto
 [Quarto guide](https://quarto.org/docs/computations/execution-options.html)
+
+

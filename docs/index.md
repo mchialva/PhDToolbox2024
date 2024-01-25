@@ -33,12 +33,12 @@ https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson
 
 ### Day 2 - January 29, 2024, 09:00-13:00
 - Working with lists
-- Reproducible data reporting with RMarkdown
+- Reproducible data reporting with RMarkdown and Quarto
 
 ## Stream 2 Plotting maps in R
 ### Day 1 - January 30, 2024, 09:00-12:00
 - Geographic data introduction
-- Plot maps in R usig ggplot2
+- Plot maps in R with ggplot2
 
 # [Exercises](https://mchialva.github.io/PhDToolbox2024/Exercises/)
 

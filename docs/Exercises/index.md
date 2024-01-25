@@ -20,6 +20,5 @@ Please complete the following exercises and load your final outputs in the opene
 
 ***
 
-> [!NOTE]
 > This page is under construction! Other exercise will be published in the next days!
 
