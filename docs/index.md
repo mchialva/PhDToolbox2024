@@ -45,6 +45,6 @@ https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson
 # [Course datasets](https://github.com/mchialva/PhDToolbox2024/tree/main/Datasets/)
 Example datasets used during lessons
 
-# [Usseful resources](https://github.com/mchialva/PhDToolbox2024/tree/main/resources/)
+# [Useful resources](https://github.com/mchialva/PhDToolbox2024/tree/main/resources/)
 Useful extra resources
 
