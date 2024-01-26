@@ -4,10 +4,10 @@ author: "Matteo Chialva & Martino Adamo"
 date: "2024-01-24"
 format:
   revealjs:
-      slideNumber: true
+      #slideNumber: true
       controls: true
       show-slide-number: print
-      incremental: true
+      incremental: false
       progress: true
       chalkboard: true
 embed-resources: false
@@ -17,7 +17,17 @@ embed-resources: false
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## [Slide Title]{style="text-align:center; display: block;"}
+Slide content
+
+***
+
+- bullet 1
+- bullet 2
+
+***
+
+## [R Markdown]{style="font-size: 60px; font-weight: bold; color:red; font-family: verdana;" .tit .p-span-center}
 
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
