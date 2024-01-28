@@ -16,3 +16,8 @@ An animal field survey from [Ernest et al., 2017](https://doi.org/10.6084/m9.fig
 ## Predictions
 CAZymes gene prediction in 8 fungal model species (from [Adamo, Chialva et al., 2020](https://doi.org/10.3390/ijms21093139))
 
+## maps
+Toy geographic dataset for Rmapping lesson
+
+- birds.tsv	field observations of *Dryocopus martius* and *Parus major* across Italy (source GBIF).
+- Frumento.tsv	wheat production in Piemonte by province in 2023 (source ISTAT)

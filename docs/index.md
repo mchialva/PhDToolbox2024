@@ -32,13 +32,11 @@ https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons%2FStream_1%2FLesson
 - [Advanced Scientific data visualization in R with ggplot2](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons/Stream_2/Lesson_1_ggplot2.pdf)
 
 ### Day 2 - January 29, 2024, 09:00-13:00
-- Working with lists
-- Reproducible data reporting with RMarkdown and Quarto
+- [Plotting maps in R](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons/Stream_2/Lesson_2_rmapping.pdf)
 
-## Stream 2 Plotting maps in R
-### Day 1 - January 30, 2024, 09:00-12:00
-- Geographic data introduction
-- Plot maps in R with ggplot2
+### Day 3 - January 30, 2024, 09:00-12:00
+- [Working with lists](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons/Stream_2/Lesson_3_lists.pdf)
+- [Reproducible data reporting with RMarkdown and Quarto](https://github.com/mchialva/PhDToolbox2024/blob/main/Lessons/Stream_2/Lesson_3_rmarkdown.pdf)
 
 # [Exercises](https://mchialva.github.io/PhDToolbox2024/Exercises/)
 
