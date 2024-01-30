@@ -11,10 +11,6 @@ format:
 bibliography: citations.bib
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Results 1
 
 ::: panel-tabset
@@ -46,7 +42,10 @@ Here you can write your first paragraph. You can also add citations contained in
 You can embed an R code chunk like this:
 
 ```{r}
-#| echo: true
+#| echo: true        # show or not the chunk
+#| code-fold: true   # show or not the code-folding in this chunk
+#| include: true      # show or not the code
+#| output: true      # show the output of the function
 summary(cars)
 ```
 
@@ -111,7 +110,7 @@ plot(pressure)
 
 ```
 
-Note that the `echo: false` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Note that the `echo: false` parameter was added to the code chunk to not include the code in the final rendered report:
 
 ```{r}
 #| echo: false        # show or not the chunk
@@ -121,15 +120,12 @@ Note that the `echo: false` parameter was added to the code chunk to prevent pri
 library(dplyr)
 ```
 
-You also can add silent code that won't be reported in your final report (include: false)
+You also can also enable the code-folding option (code-fold: false), or do not show the product of your code in the final report (output: false)
 
-```{bash}
-# execute the following bash code
-pwd
-```
+You can easily add citation using the visual editor and adding references from Zotero or other remote sources.
 
-This is my first Zotero citation [@bravo2017]
+This is my first Zotero citation [@bravo2017].
 
-This is my first R-package citation [@ggplot2]
+This is my first R-package citation [@ggplot2].
 
 ## References

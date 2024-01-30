@@ -13,10 +13,12 @@ Authors: Matteo Chialva & Martino Adamo
 [^1]: If you do not have access to the Moodle platform yet, please e-mail us your results!
 
 # Task 1 - import data
-- Import the Tree of Life Dataset SampleTREE_TraitCompiled.csv) from the Dataset folder [here](https://github.com/mchialva/PhDToolbox2024/blob/main/docs/Exercises/Tree-of-life/SampleTREE_TraitCompiled.csv) into the *ToL* object
+- Import the Tree of Life Dataset SampleTREE_TraitCompiled.csv) from the Dataset folder [here](https://raw.githubusercontent.com/mchialva/PhDToolbox2024/main/docs/Exercises/Tree-of-life/SampleTREE_TraitCompiled.csv) into the *ToL* object
 
 > [!IMPORTANT]
-> If you use read.table() function please add the following arguments to avoid importing issues:
+> + If you use read.table() function please add the following arguments to avoid importing issues:
+> + Please, check the field separator before importing the file. File extension is .csv, but the separator could not be the comma.
+
 ```
 read.table(..., quote="\"", fill=T)
 ```
@@ -25,7 +27,7 @@ read.table(..., quote="\"", fill=T)
 # Task 2 - Adjust columns and their content
 - remove *Notes* and *fossil_status* columns
 
-- set *names* columns as rownames
+- set *name* columns as rownames
 
 - remove parenthes from *author* column and store the results into a new column called *author_clean*
 
@@ -36,7 +38,7 @@ read.table(..., quote="\"", fill=T)
 
 # Task 3 - Summarize data
 
-- Which is the mean wikipedia mean month page wiews and total WoS citations of the different kingdoms?
+- Which is the mean wikipedia mean month page wiews and total WoS citations (*Total_wos* column) of the different kingdoms?
 
 - Which are the most cited species for each group?
 
