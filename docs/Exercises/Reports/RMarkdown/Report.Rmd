@@ -39,7 +39,7 @@ Hey! I'm the second tab!
 
 ## First Section
 
-Here you can write your first paragraph. You can also add citations contained in 'citations.bib' file ([@Hu-et-al]). See <http://rmarkdown.rstudio.com>.
+Here you can write your first paragraph. You can also add citations contained in 'citations.bib' file [@Hu-et-al]. See <http://rmarkdown.rstudio.com>.
 
 You can embed an R code chunk like this:
 

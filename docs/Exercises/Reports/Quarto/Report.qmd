@@ -25,7 +25,6 @@ Hey! I'm the first tab!
 ### Tab Two
 
 Hey! I'm the second tab!
-
 :::
 
 ## Results 2
@@ -38,8 +37,8 @@ Hey! I'm the first tab!
 ### Tab Two
 
 Hey! I'm the second tab!
-
 :::
+
 ## First Section
 
 Here you can write your first paragraph. You can also add citations contained in 'citations.bib' file [@Hu-et-al]. See <http://rmarkdown.rstudio.com>.
@@ -90,18 +89,18 @@ ggplot(iris, aes(Species, Sepal.Width, fill=Species))+geom_boxplot()
 ```
 :::
 
-::: {layout-ncol=2}
+::: {layout-ncol="2"}
 ### List One
 
-- Item A
-- Item B
-- Item C
+-   Item A
+-   Item B
+-   Item C
 
 ### List Two
 
-- Item X
-- Item Y
-- Item Z
+-   Item X
+-   Item Y
+-   Item Z
 :::
 
 ```{r}
@@ -128,5 +127,9 @@ You also can add silent code that won't be reported in your final report (includ
 # execute the following bash code
 pwd
 ```
+
+This is my first Zotero citation [@bravo2017]
+
+This is my first R-package citation [@ggplot2]
 
 ## References
